@@ -1,5 +1,5 @@
 # Ataxx(세균전)
-2017년 2학년 1학기 자유주제 개인프로젝트
+java 연습 개인프로젝트
 
 ![image.jpg1](https://user-images.githubusercontent.com/43065314/212112745-d3baea35-fcb4-49da-9541-c0aeefb945b7.png) |![image.jpg2](https://user-images.githubusercontent.com/43065314/212113165-e3706aad-72f5-425d-9287-187a8cc3ba82.png)
 --- | --- | 
